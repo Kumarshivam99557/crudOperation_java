@@ -7,7 +7,9 @@ public class MyJdbct {
 		
    Students st = new Students();
 //   st.createDatabase();
-   st.createTable();
+//   st.createTable();
+//   st.createData();
+   st.readData();
      
 	}
 
